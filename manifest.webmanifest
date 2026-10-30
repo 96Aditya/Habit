@@ -1,0 +1,19 @@
+{
+  "name": "HabitFlow \u2014 Daily Habit Tracker",
+  "short_name": "HabitFlow",
+  "description": "Offline-first habit tracker with daily checklists, streaks and reports.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6fa",
+  "theme_color": "#101d35",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
